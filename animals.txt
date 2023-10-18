@@ -1,0 +1,10 @@
+Dog
+Cat
+Leopard
+Elephant
+Lion
+Tiger
+Bear
+Whale
+Monkey
+Gazelle
